@@ -9,4 +9,4 @@ docker-compose file to fire up go-micro with a basic hello-world service.
  docker-compose up
  ```
 You can read my blog post for more details at 
-[http://blog.whomeninja.in/golang-go-micro-with-docker-compose/](http://blog.whomeninja.in/golang-go-micro-with-docker-compose/)
+[https://rajislearning.com/golang-go-micro-with-docker-compose/](http://blog.whomeninja.in/golang-go-micro-with-docker-compose/)
